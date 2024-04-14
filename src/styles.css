@@ -1,1 +1,17 @@
-/* You can add global styles to this file, and also import other style files */
+html {
+    font-size: 8px; 
+  }
+
+  body, html {
+    min-width: 400px;
+    height: 100%;
+    margin: 0;
+    background: url('./assets/bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+  }
+
+  * {
+    font-family: 'Arial', sans-serif;
+    box-sizing: border-box;
+  }
+  
